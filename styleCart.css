@@ -1,0 +1,52 @@
+body{
+margin:50px auto;
+width:70%;
+font-family:serif;
+}
+
+img{
+width:200px;
+height:200px;
+}
+
+.x{ float:right; background-color:white; border:none;}
+
+#content{
+display:flex;
+}
+.section1{
+margin-right:50px;
+width:50%;
+}
+
+.section1 img{width:100%;}
+
+.section1{
+width:50%;
+}
+
+.section2 p{color:gray; padding-top:20px;}
+
+#total{font-weight:bold; color:black; padding-left:10px;}
+
+.check{
+width:40%;
+margin:20px 35%;
+padding:10px 0;
+background-color:orange;
+color:white;
+border-radius:10%;
+border:none;
+box-shadow:0 0 5px 0 rgba(0,0,0,0.5);
+}
+
+.section3{
+margin-left:100px;
+padding-top:80px;
+}
+
+.empty{
+color:gray;
+text-align:center;
+padding-top:50px;
+}
